@@ -1,4 +1,4 @@
-Bank-Risk-Controller-Systems Project
+**Bank-Risk-Controller-Systems Project**
 Project Overview: The goal of this project is to create a machine learning model that predicts if a customer will default on a loan. We'll use historical loan data to build and test this model, and then make it available through a Streamlit application for real-time predictions.
 
 Skills and Technologies:
